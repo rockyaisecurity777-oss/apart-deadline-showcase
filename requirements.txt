@@ -1,0 +1,5 @@
+# Standard library only. Python 3.9+ with IANA time-zone data.
+# On Windows or systems without /usr/share/zoneinfo, install the tzdata package:
+# tzdata>=2024.1
+# Optional test runner (the tests also run with python3 -m unittest):
+# pytest>=7
