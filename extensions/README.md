@@ -1,5 +1,7 @@
 # Post-sprint extensions (added 19 Nov 2026)
 
+> **Showcase deck (10 slides, PDF):** [Showcase-deck.pdf](Showcase-deck.pdf). It is a visual summary of the method and all benchmark results. Added 19 Nov 2026, after the sprint; it is not part of the judged submission.
+
 **This folder was added on 19 November 2026, after the Apart Research AI x Epistemics Research Sprint. It is not part of the judged submission.**
 
 The judged experiment remains the unchanged files at the repository root: `clock_evidence.py`, `results.csv`, and `original/research-replication.zip`. Those files were not modified. Judges should still treat the 14 November report and that archive as the submission.
